@@ -270,6 +270,14 @@ p {
   border: 2px solid #5bc0de;
 }
 
+/* ------------------------------- NIGHT ICON --------------------------------- */
+.material-icons{
+  font-size: 30px;
+  margin-top: 8px;
+  margin-left: -15px;
+  position: absolute;
+}
+
 /* ------------------------------- MEDIA QUERIES --------------------------------- */
 @media screen and (max-width: 768px) {
   section,
